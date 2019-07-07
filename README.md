@@ -91,7 +91,8 @@ module.exports = {
 
 ```
 
-```
+```sh
+npm install -g brunch
 echo 'console.log([1, 2, 3].reduce((s, n) => s + n ** 2))' > app/index.js
 ```
 
@@ -101,6 +102,6 @@ _.button_xkplk_42 {
 }
 ```
 
-```
+```html
 <div className={style.button}></div>
 ```
